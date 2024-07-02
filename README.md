@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Final-year student of computer science hoping to become a software developer with practical knowledge of HTML, CSS, JavaScript, C++, and Python. Quick learner, enthusiastic solver of problems, and always up for a challenge. I'm eager to contribute my technical expertise, flexibility, and new viewpoint to a dynamic software development team. Let's get in touch and discuss how I can help create meaningful solutions and be an invaluable member of your team!
+A graduated student of computer science hoping to become a software developer with practical knowledge of HTML, CSS, JavaScript, C++, and Python. Quick learner, enthusiastic solver of problems, and always up for a challenge. I'm eager to contribute my technical expertise, flexibility, and new viewpoint to a dynamic software development team. Let's get in touch and discuss how I can help create meaningful solutions and be an invaluable member of your team!
 
 
 ## 🌐 Socials:
