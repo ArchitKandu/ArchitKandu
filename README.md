@@ -1,24 +1,74 @@
-# 💫 About Me:
-A graduated student of computer science hoping to become a software developer with practical knowledge of HTML, CSS, JavaScript, C++, and Python. Quick learner, enthusiastic solver of problems, and always up for a challenge. I'm eager to contribute my technical expertise, flexibility, and new viewpoint to a dynamic software development team. Let's get in touch and discuss how I can help create meaningful solutions and be an invaluable member of your team!
+<p align="center">
+  Full Stack Engineer <br>
+  <sub>Shipping product with Next.js, TypeScript, FastAPI, LangGraph, and Google Cloud</sub>
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/architkandu) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArchitKandu&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArchitKandu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchitKandu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ArchitKandu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ArchitKandu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://architkandu.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-architkandu.com-1F2937?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/architkandu" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:architkandu@gmail.com"><img src="https://img.shields.io/badge/Email-architkandu@gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArchitKandu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I work with
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-1F2937?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1F2937?style=flat-square&logo=css3&logoColor=white)
+
+App Router, server components, and streaming UI. Most of my work is typed end-to-end, and I care about the parts people actually feel — loading states, error states, and forms that don't lose your work.
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1F2937?style=flat-square&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-1F2937?style=flat-square&logo=openapiinitiative&logoColor=white)
+
+Designing routes and contracts before writing handlers. Comfortable working across a Next.js frontend and a Python service without either side guessing what the other returns.
+
+### AI & LLM systems
+![LangChain](https://img.shields.io/badge/LangChain-1F2937?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1F2937?style=flat-square&logo=langgraph&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20Servers-1F2937?style=flat-square&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1F2937?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1F2937?style=flat-square)
+
+Multi-step agent workflows, retrieval over dense domain documents, and prompt design where the output has to be defensible rather than merely fluent. Legal text is unforgiving, which is a good teacher.
+
+### Cloud & DevOps
+![GCP](https://img.shields.io/badge/Google%20Cloud-1F2937?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1F2937?style=flat-square&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-1F2937?style=flat-square&logo=googlecloud&logoColor=white)
+
+Deploys, auth, environments, and the unglamorous work of making a prototype survive real users.
+
+### Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-1F2937?style=flat-square&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1F2937?style=flat-square&logo=postgresql&logoColor=white)
+
+Relational modelling for data that has to stay correct — typed relationships, verification state, and room for a human to override the machine.
+
+### Tooling
+![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1F2937?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1F2937?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-1F2937?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ArchitKandu&show_icons=true&hide_border=true&hide_title=true&icon_color=1F2937&text_color=555555" height="150" alt="GitHub stats">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArchitKandu&layout=compact&hide_border=true&title_color=1F2937&text_color=555555" height="150" alt="Top languages">
+</p>
+
+<!-- <p align="center"><sub>Open to conversations about AI product engineering, legal tech, and anything Next.js. Full background on <a href="https://linkedin.com/in/architkandu" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</sub></p> -->
