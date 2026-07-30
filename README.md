@@ -64,11 +64,11 @@ Relational modelling for data that has to stay correct — typed relationships, 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
----
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ArchitKandu&show_icons=true&hide_title=true&bg_color=2B3040&title_color=E8734A&icon_color=E8734A&text_color=E8A87C&border_color=3F4557&border_radius=8" height="150" alt="GitHub stats">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArchitKandu&layout=compact&bg_color=2B3040&title_color=E8734A&text_color=E8A87C&border_color=3F4557&border_radius=8" height="150" alt="Top languages">
-</p>
+</p> -->
 
 <!-- <p align="center"><sub>Open to conversations about AI product engineering, legal tech, and anything Next.js. Full background on <a href="https://linkedin.com/in/architkandu" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</sub></p> -->
